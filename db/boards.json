@@ -1,0 +1,20 @@
+{
+  "board1": {
+    "name": "board1",
+    "description": "description1",
+    "isPrivate": false,
+    "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
+  },
+  "board2": {
+    "name": "board2",
+    "description": "description2",
+    "isPrivate": false,
+    "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
+  },
+  "board3": {
+    "name": "board3",
+    "description": "description3",
+    "isPrivate": false,
+    "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
+  }
+}
