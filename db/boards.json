@@ -1,19 +1,22 @@
 {
   "board1": {
-    "name": "board1",
-    "description": "description1",
+    "id": "recipes",
+    "name": "recipes",
+    "description": "This board contains recipes",
     "isPrivate": false,
     "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
   },
   "board2": {
-    "name": "board2",
-    "description": "description2",
+    "id": "outdoors",
+    "name": "Outdoors",
+    "description": "This boaerd is all things outdoors",
     "isPrivate": false,
     "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
   },
   "board3": {
-    "name": "board3",
-    "description": "description3",
+    "id": "coffee",
+    "name": "Coffee",
+    "description": "This board contains stuff about coffee",
     "isPrivate": false,
     "uid": "tnyV3PvPhcU0sK5kAHQGi6mcZVF2"
   }
