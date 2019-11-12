@@ -1,6 +1,6 @@
 import utilities from '../../helpers/utilities';
 import boardsData from '../../helpers/data/boardsData';
-import 
+
 
 const printBoards = (uid) => {
   boardsData.getBoardByUid(uid)
